@@ -12,6 +12,8 @@ namespace ConsoleApp1
 		{
 			// Modified from within GitHub
 			// Comment added in Visual Studio
+
+			// Added Class1.class
 		}
 	}
 }
